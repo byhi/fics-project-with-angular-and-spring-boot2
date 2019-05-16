@@ -1,0 +1,15 @@
+com\byhi\fics\controller\LoginController$User.class
+com\byhi\fics\service\RendszerService.class
+com\byhi\fics\service\RendszerServiceImpl.class
+com\byhi\fics\controller\ModulController.class
+com\byhi\fics\repository\RendszerRepository.class
+com\byhi\fics\FicsServerApplication.class
+com\byhi\fics\controller\LoginController.class
+com\byhi\fics\configuration\SecurityConfig.class
+com\byhi\fics\domain\Rendszer.class
+com\byhi\fics\service\ModulService.class
+com\byhi\fics\repository\ModulRepository.class
+com\byhi\fics\domain\Modul.class
+com\byhi\fics\controller\RendszerController.class
+com\byhi\fics\configuration\CORSFilter.class
+com\byhi\fics\service\ModulServiceImpl.class
